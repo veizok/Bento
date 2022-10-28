@@ -92,9 +92,9 @@ const CONFIG = {
 	secondButtonsContainer: [
 		{
 			id: '1',
-			name: 'Music',
+			name: 'Lo-Fi',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://www.youtube.com/watch?v=jfKfPfyJRdk',
 		},
 		{
 			id: '2',
